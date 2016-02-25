@@ -6,7 +6,7 @@ System.config({
         'systemjs-babel-build': 'js/libs/systemjs-plugin-babel/systemjs-babel-browser.js'
     },
     babelOptions: {
-        presets: ['babel-preset-react']
+        presets: ['react']
     }
 });
 System.import('js/app.js');
