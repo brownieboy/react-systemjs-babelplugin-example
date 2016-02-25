@@ -1,0 +1,22 @@
+{
+  "name": "react-systemjs-babelplugin-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brownieboy/react-systemjs-babelplugin-example.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/brownieboy/react-systemjs-babelplugin-example/issues"
+  },
+  "dependencies": {
+    "react": "~0.14.7",
+    "react-dom": "~0.14.7"
+  }
+}
